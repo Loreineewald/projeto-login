@@ -20,6 +20,16 @@ Este projeto tem como objetivo demonstrar a criação de uma tela de login estil
 
 --
 
+## 📱 Responsividade
+
+A página se ajusta a diferentes tamanhos de tela, sendo compatível com:
+
+- 💻 Desktops
+- 📱 Smartphones
+- 📟 Tablets
+
+--
+
 ## 🌐 Acesse o projeto online
 
 🔗 [Acesse aqui o projeto online](https://loreineewald.github.io/projeto-login/)<br>
