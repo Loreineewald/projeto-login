@@ -3,13 +3,17 @@
 Projeto realizado no Curso de <strong>HTML5</strong> e <strong>CSS3</strong> do Curso em Vídeo.<br>
 Com Professor <strong>Gustavo Guanabara</strong>.
 
---
+##✍️ Sobre o Projeto
+
+Este projeto é uma interface de tela de login desenvolvida com foco em design responsivo e usabilidade. Ele simula o processo de autenticação de usuários, sendo ideal para estudos de front-end e demonstrações de UI/UX.
+
+---
 
 ## 🎯 Objetivo
 
 Este projeto tem como objetivo demonstrar a criação de uma tela de login estilizada, que pode ser usada como base para sistemas maiores ou projetos pessoais. Foi desenvolvido com foco em simplicidade, estética e responsividade.
 
---
+---
 
 ## ✨ Funcionalidades
 
@@ -18,7 +22,7 @@ Este projeto tem como objetivo demonstrar a criação de uma tela de login estil
 - Design **moderno e responsivo**
 - Animações sutis para melhor experiência do usuário
 
---
+---
 
 ## 📱 Responsividade
 
@@ -28,14 +32,14 @@ A página se ajusta a diferentes tamanhos de tela, sendo compatível com:
 - 📱 Smartphones
 - 📟 Tablets
 
---
+---
 
 ## 🌐 Acesse o projeto online
 
 🔗 [Acesse aqui o projeto online](https://loreineewald.github.io/projeto-login/)<br>
 📦 [Ver repositório no GitHub](https://github.com/Loreineewald/projeto-login)
 
---
+---
 
 ## 📱 Escaneie com seu celular
 
