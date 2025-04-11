@@ -22,7 +22,7 @@ Este projeto tem como objetivo demonstrar a criação de uma tela de login estil
 
 ## 🌐 Acesse o projeto online
 
-🔗 [Acesse aqui o projeto online](https://loreineewald.github.io/projeto-login/)
+🔗 [Acesse aqui o projeto online](https://loreineewald.github.io/projeto-login/)<br>
 📦 [Ver repositório no GitHub](https://github.com/Loreineewald/projeto-login)
 
 --
