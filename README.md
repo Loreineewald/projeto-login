@@ -3,7 +3,7 @@
 Projeto realizado no Curso de <strong>HTML5</strong> e <strong>CSS3</strong> do Curso em Vídeo.<br>
 Com Professor <strong>Gustavo Guanabara</strong>.
 
-##✍️ Sobre o Projeto
+## ✍️ Sobre o Projeto
 
 Este projeto é uma interface de tela de login desenvolvida com foco em design responsivo e usabilidade. Ele simula o processo de autenticação de usuários, sendo ideal para estudos de front-end e demonstrações de UI/UX.
 
